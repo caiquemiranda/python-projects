@@ -2,5 +2,8 @@
 python-projects
 
 
-- [x] LinkedIn-Email-Scraper
-- [ ] Cricbuzz scrapper
+- [x] LinkedIn Email Scraper
+- [x] Cricbuzz scrapper
+- [x] Lyrics Download
+- [x] Merge CSV Files
+- [ ] ...
