@@ -5,11 +5,11 @@ import datetime
 # Define constantes: DAYS é uma tupla contendo os nomes dos dias da semana; MONTHS é uma tupla com os nomes dos meses.
 DAYS = ('Sunday', 'Monday', 'Tuesday', 'Wednesday',
         'Thursday', 'Friday', 'Saturday')
-MONTHS = ('January', 'February', 'March', 'April', 'May', 'June',
-          'July', 'August', 'September', 'October', 'November', 'December')
 
-# Exibe uma mensagem de introdução ao usuário.
-print('Calendar Maker, by Al Sweigart al@inventwithpython.com')
+MONTHS = ('January', 'February', 'March', 
+          'April', 'May', 'June',
+          'July', 'August', 'September', 
+          'October', 'November', 'December')
 
 # Inicia um loop infinito para obter um ano válido do usuário.
 while True:
