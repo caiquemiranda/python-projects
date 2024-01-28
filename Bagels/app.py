@@ -1,4 +1,3 @@
-# Importando o módulo random para gerar números aleatórios
 import random
 
 # Definindo constantes para o jogo

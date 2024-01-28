@@ -1,10 +1,18 @@
-# python-projects
-python-projects
-
-
 - [x] LinkedIn Email Scraper
 - [x] Cricbuzz scrapper
 - [x] Lyrics Download
 - [x] Merge CSV Files
+- [x] Bagels
+- [x] Calendar
+- [x] Merge-PDF
+- [x] Message-Spam-Detection
+- [x] Movie-Info-Telegram-Bot
+- [x] Movie-Information-Scraper
+- [x] QR-Code-Generator
+- [x] Scraping-Medium-Articles
+- [x] Set-Alarm
+- [x] Snapshot-of-Given-Website
+- [x] Stock-Data
 - [ ] ...
-- [ ] 
+- [ ] ...
+- [ ] ...
